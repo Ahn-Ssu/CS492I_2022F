@@ -46,6 +46,7 @@ Graph Isomorphic Networks
 - run the same models by loading data (1-2) with args.mol_dim = 19
 ## 5. Best model, configuration, and data representation methods
 - hyperparameter settings for best performance in LogP, TPSA, SAS, CEP
+- the pretrained model load function
 ## 6. Plotting result
 - Reproducing result
 - Compare three feature encodings
