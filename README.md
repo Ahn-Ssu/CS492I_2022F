@@ -50,3 +50,6 @@ Graph Isomorphic Networks
 ## 6. Plotting result
 - Reproducing result
 - Compare three feature encodings
+
+## experiment log.xlsx file
+- saved all experiment records (288 model configuration and 3 type data representation method)
